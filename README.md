@@ -1,6 +1,6 @@
 Hola, soy Fernando Daniel Bello Rosas  
 
-Analista de Datos Jr certificado en TripleTen**
+Analista de Datos Jr certificado en TripleTen
 Trabajo con **Python, SQL, Power BI, Tableau y Streamlit**  
 Apasionado por transformar datos en información clara que impulse decisiones de negocio.  
 
